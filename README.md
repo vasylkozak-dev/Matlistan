@@ -18,4 +18,4 @@ Appen är ett övningsprojekt och sparar ännu inte listan när appen stängs.
 
 ### Skärmbild
 
-![Matlistan](screenshots/Matlistan.png)
+<img src="screenshots/Matlistan.png" width="300" alt="Matlistan screenshot">
