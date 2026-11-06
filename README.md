@@ -1,6 +1,6 @@
 # Matlistan
 
-Matlistan är en enkel Android-app för att skapa en inköpslista. Appen är byggd med Kotlin och Jetpack Compose som mitt första Android-projekt under utbildningen.
+Matlistan är en enkel Android-app för att skapa en inköpslista. Appen är byggd med Kotlin och Jetpack Compose.
 
 ### Funktioner
 - Lägga till varor i listan
