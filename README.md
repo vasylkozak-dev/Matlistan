@@ -15,3 +15,7 @@ Matlistan är en enkel Android-app för att skapa en inköpslista. Appen är byg
 - Material 3
 
 Appen är ett övningsprojekt och sparar ännu inte listan när appen stängs.
+
+### Skärmbild
+
+![Matlistan](screenshots/Matlistan.png)
